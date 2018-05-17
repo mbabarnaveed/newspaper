@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">newsapp</string>
+    <string name="news_head_line">News Headlines</string>
+    <string name="author_name">Author:</string>
+    <string name="no_internet_connection">Internet connection not found!</string>
+    <string name="loader_wait">Wait a moment .....</string>
+    <string name="search_hint">Search news by tittle</string>
+</resources>
